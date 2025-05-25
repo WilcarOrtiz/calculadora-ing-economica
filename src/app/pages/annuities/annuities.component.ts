@@ -13,6 +13,10 @@ import { AnnutiesConvertionTimeFunctionsService } from "../../service/annuties_f
 import { CarrouselComponent } from "../../shared/carrousel/carrousel.component";
 import { FormControl, FormGroup, ReactiveFormsModule } from "@angular/forms";
 
+
+/*analisis*/
+
+import { CommonModule } from "@angular/common";
 @Component({
   selector: "app-annuities",
   standalone: true,
